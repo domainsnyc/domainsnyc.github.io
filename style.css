@@ -1,0 +1,31 @@
+html { 
+  background: url(abs.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+   .centerkofi {
+
+
+  position: absolute;
+
+
+  left: 50%;
+
+
+  top: 92%;
+
+
+  transform: translate(-50%, -50%);
+
+
+  border: 5px solid transparent;
+
+
+  padding: 10px;
+
+
+}
